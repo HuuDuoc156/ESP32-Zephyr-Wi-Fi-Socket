@@ -95,5 +95,5 @@ python3 application/scripts/script_udp_sender.py
 ```
 
 ---
-**Maintained by D93 AIoT Solutions**
+**Maintained by Davis Nguyen and D93 AIoT Solutions**
 *Delivering End-to-End Solutions in Embedded Systems, AI, Robotics & Full-Stack Development.*
